@@ -1,0 +1,11 @@
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\bin\Debug\net8.0\CSProjeDemo1.deps.json
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\bin\Debug\net8.0\CSProjeDemo1.dll
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\bin\Debug\net8.0\CSProjeDemo1.pdb
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.dll
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\refint\CSProjeDemo1.dll
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\CSProjeDemo1.pdb
+C:\Users\Sibel\Desktop\MVC\OOPCase\CSProjeDemo1\CSProjeDemo1\obj\Debug\net8.0\ref\CSProjeDemo1.dll

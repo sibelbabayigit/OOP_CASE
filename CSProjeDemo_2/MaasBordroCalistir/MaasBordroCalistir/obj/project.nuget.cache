@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTnPfz0u1heQFvCRFfrkLjEL8b8Wo66Aj2ZzyTgydcSFQT7kTaQuYGzhX1kMAlm4dRalfvxdYhHxFJYDnXPECA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sibel\\Desktop\\OOPCase\\MaasBordroCalistir\\MaasBordroCalistir\\MaasBordroCalistir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sibel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
